@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Code2, Menu, X } from 'lucide-react';
 
 export default function Navbar() {
