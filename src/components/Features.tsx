@@ -1,4 +1,3 @@
-import React from 'react';
 import { Code2, BookOpen, Video, Users, Target, Trophy } from 'lucide-react';
 
 export default function Features() {
